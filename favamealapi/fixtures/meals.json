@@ -1,0 +1,26 @@
+[
+    {
+        "model": "favamealapi.meal",
+        "pk": 1,
+        "fields": {
+            "restaurant": 1,
+            "name": "Puff Puff Pass"
+        }
+    },
+    {
+        "model": "favamealapi.meal",
+        "pk": 2,
+        "fields": {
+            "restaurant": 2,
+            "name": "Chaat"
+        }
+    },
+    {
+        "model": "favamealapi.meal",
+        "pk": 3,
+        "fields": {
+            "restaurant": 3,
+            "name": "Hot Chickie Tendies"
+        }
+    }
+]

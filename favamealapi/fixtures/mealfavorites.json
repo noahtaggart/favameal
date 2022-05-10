@@ -1,0 +1,26 @@
+[
+    {
+        "model": "favamealapi.meal_favorites",
+        "pk": 1,
+        "fields": {
+            "meal":1,
+            "user":1
+        }
+    },
+    {
+        "model": "favamealapi.meal_favorites",
+        "pk": 2,
+        "fields": {
+            "meal":1,
+            "user":2
+        }
+    },
+    {
+        "model": "favamealapi.meal_favorites",
+        "pk": 3,
+        "fields": {
+            "meal":2,
+            "user":3
+        }
+    }
+]

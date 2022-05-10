@@ -1,0 +1,29 @@
+[
+    {
+        "model": "favamealapi.mealrating",
+        "pk": 1,
+        "fields": {
+            "rating": 10,
+            "meal":1,
+            "user":1
+        }
+    },
+    {
+        "model": "favamealapi.mealrating",
+        "pk": 2,
+        "fields": {
+            "rating": 8,
+            "meal":1,
+            "user":2
+        }
+    },
+    {
+        "model": "favamealapi.mealrating",
+        "pk": 3,
+        "fields": {
+            "rating": 3,
+            "meal":2,
+            "user":1
+        }
+    }
+]

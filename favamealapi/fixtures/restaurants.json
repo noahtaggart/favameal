@@ -1,0 +1,26 @@
+[
+    {
+        "model": "favamealapi.restaurant",
+        "pk": 1,
+        "fields": {
+            "address": "1331 Holiday Road",
+            "name": "Chaatable"
+        }
+    },
+    {
+        "model": "favamealapi.restaurant",
+        "pk": 2,
+        "fields": {
+            "address": "1333 Holiday Road",
+            "name": "Remo's"
+        }
+    },
+    {
+        "model": "favamealapi.restaurant",
+        "pk": 3,
+        "fields": {
+            "address": "1309 Bell Rd. Ste 218 Antioch, TN 37013",
+            "name": "Hot Stuff"
+        }
+    }
+]
